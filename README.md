@@ -22,13 +22,10 @@ Presentamos la aplicación de HOWL que consiste en una APP para usuarios con ani
 5. __CHAT__
 
 
-'python
-import lifetime
-for each_day in lifetime.days():
-carpe_diem()'
-~~~
-C´odigo
-aqu´ı
+`Esto es una línea de código`
+
+~~~PYTHON
+print("Hola mundo, este es mi sección de caracteristicas")
 ~~~
 
 # ¿Quienes somos?
@@ -56,6 +53,17 @@ aqu´ı
 He aprendido a realizar este markdown con estás páginas (estar registrado y dado de alta en DAM VENTURA RODRIGUEZ AULA VIRTUAL):
 
 <https://aulavirtual33.educa.madrid.org/ies.arquitectoventurarodriguez.boadilla/pluginfile.php/70852/mod_resource/content/1/Markdown-Guia_breve_y_detallada.pdf>
+
+Aunque en este pdf muestra una forma de hacer código con (ejemplo adelante) que no funciona:
+
+‘‘‘
+C´odigo
+aqu´ı
+‘‘‘
+
+
+Asi que con el código aprendi con la otra forma que se describe en el documento anterior y con las que se describe en el siguiente:
+https://markdown.es/sintaxis-markdown/#codigo
 
 
 
