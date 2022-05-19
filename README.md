@@ -25,6 +25,17 @@ Presentamos la aplicación de HOWL que consiste en una APP para usuarios con ani
 Esto es código
 ‘‘‘
 
+‘‘‘python
+import lifetime
+for each_day in lifetime.days():
+carpe_diem()
+‘‘‘
+
+~~~
+C´odigo
+aqu´ı
+~~~
+
 # ¿Quienes somos?
 
 ![Sección ¿Quienes Somos?](https://images.pexels.com/photos/163064/play-stone-network-networked-interactive-163064.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940) 
