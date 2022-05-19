@@ -21,16 +21,11 @@ Presentamos la aplicación de HOWL que consiste en una APP para usuarios con ani
 4. __ADOPCION__: Apartado para adoptar animales.
 5. __CHAT__
 
-‘‘‘
-Esto es código
-‘‘‘
 
-‘‘‘python
+'python
 import lifetime
 for each_day in lifetime.days():
-carpe_diem()
-‘‘‘
-
+carpe_diem()'
 ~~~
 C´odigo
 aqu´ı
